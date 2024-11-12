@@ -4,7 +4,6 @@
 -🌱 I’m currently learning web development, specifically working on front-end and back-end technologies.<br>
 -💞️ I’m looking to collaborate on innovative web or mobile app projects that solve real-world problems and utilize modern tech stacks.<br>
 -📫 How to reach me: You can contact me via [snmariam90@gmail.com].<br>
--😄 Pronouns: She/Her<br>
 -⚡ Fun fact: I’m a quick learner and love problem-solving—outside of coding, I enjoy exploring new tech trends and gadgets.<br>
 <!---
 mariam-765/mariam-765 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
